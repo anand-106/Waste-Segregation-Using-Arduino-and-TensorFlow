@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416141026231",
+    "project_id": "dustbin-88db1",
+    "storage_bucket": "dustbin-88db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416141026231:android:e8eb9db29d9f7387877e32",
+        "android_client_info": {
+          "package_name": "com.example.dustbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPuJkT5G197cGtzbX-wBsVLd048Ld5zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
