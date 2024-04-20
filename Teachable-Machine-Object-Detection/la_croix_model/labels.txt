@@ -1,0 +1,3 @@
+0 biodegradable
+1 nonbiodegradable
+2 background
